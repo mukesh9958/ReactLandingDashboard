@@ -9,7 +9,7 @@ export default function Avatar() {
         <img src={avatar} alt="avatar" />
       </div>
       <div className="name">
-        <span>Kishan Sheth</span>
+        <span>Mukesh Kumar</span>
         <BiChevronDown />
       </div>
     </Section>
